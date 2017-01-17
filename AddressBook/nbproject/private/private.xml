@@ -5,18 +5,17 @@
             <url>src/addressbook/AddressBookController.java</url>
             <bookmark id="1">
                 <name/>
-                <line>50</line>
+                <line>91</line>
                 <key/>
             </bookmark>
         </file>
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/kaffe/Downloads/UI-Lab1-master/AddressBook/src/addressbook/AddressBook.java</file>
-            <file>file:/home/kaffe/Downloads/UI-Lab1-master/AddressBook/src/addressbook/AddressBookAboutController.java</file>
-            <file>file:/home/kaffe/Downloads/UI-Lab1-master/AddressBook/src/addressbook/address_book.fxml</file>
-            <file>file:/home/kaffe/Downloads/UI-Lab1-master/AddressBook/src/addressbook/AddressBookController.java</file>
-            <file>file:/home/kaffe/Downloads/UI-Lab1-master/AddressBook/nbproject/jfx-impl.xml</file>
+            <file>file:/C:/Users/Erik/Google%20Drive/Utbildning/DAT216/Lab1/AddressBook/src/addressbook/AddressBookController.java</file>
+            <file>file:/C:/Users/Erik/Google%20Drive/Utbildning/DAT216/Lab1/AddressBook/src/addressbook/resources/AddressBook_sv_SE.properties</file>
+            <file>file:/C:/Users/Erik/Google%20Drive/Utbildning/DAT216/Lab1/AddressBook/src/addressbook/AddressBook.java</file>
+            <file>file:/C:/Users/Erik/Google%20Drive/Utbildning/DAT216/Lab1/AddressBook/src/addressbook/resources/AddressBook.properties</file>
         </group>
     </open-files>
 </project-private>
